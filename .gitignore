@@ -1,0 +1,25 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.lof
+*.lot
+*.nav
+*.snm
+*.bcf
+*.run.xml
+*.pdf
+
+# Other stuff to ignore
+
+# Editor stuff
+*.swp
+*.bak
+*.tmp
+.DS_Store
